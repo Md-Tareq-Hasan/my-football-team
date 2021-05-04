@@ -1,0 +1,13 @@
+.team-container{
+    display: flex;
+}
+.player-container{
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+    padding: 5px;
+}
+.cart-container{
+    margin-left:80px;
+}

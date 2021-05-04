@@ -1,0 +1,23 @@
+.player img{
+    width: 220px;
+    height: 250px;
+}
+.player{
+display: flex;
+border-bottom: 1px solid lightgray;
+margin-right: 10px;
+margin-bottom: 5px;
+padding-bottom: 5px;
+}
+.player-info{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.add-btn{
+    background-color: goldenrod;
+    height: 30px;
+    width: 110px;
+    border: 1px solid darkslategray;
+    border-radius: 5px;
+    cursor: pointer;
+}
